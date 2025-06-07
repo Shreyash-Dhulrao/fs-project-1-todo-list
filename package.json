@@ -5,10 +5,6 @@
   "scripts": {
     "dev": "nodemon backend/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shreyash-Dhulrao/fs-project-1-todo-list.git"
-  },
   "type": "module",
   "author": "",
   "license": "ISC",
